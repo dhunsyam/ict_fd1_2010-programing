@@ -1,0 +1,8 @@
+J:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\ResolveAssemblyReference.cache
+J:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\WindowsApplication1.frmprogram_flow_lab.resources
+J:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\WindowsApplication1.Resources.resources
+J:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\Program_flow_lab.vbproj.GenerateResource.Cache
+Z:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\WindowsApplication1.frmprogram_flow_lab.resources
+Z:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\WindowsApplication1.Resources.resources
+Z:\ict_fd1_2010 programing\Program_flow_lab\Program_flow_lab\obj\Debug\Program_flow_lab.vbproj.GenerateResource.Cache

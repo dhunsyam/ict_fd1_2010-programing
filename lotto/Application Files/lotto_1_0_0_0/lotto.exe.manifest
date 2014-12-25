@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="lotto.exe" version="1.0.0.0" publicKeyToken="0f52382ad4f982b6" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="lotto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="lotto.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="lotto.exe" size="30208">
+      <assemblyIdentity name="lotto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>FZDdhL4mbBpcy0J0ffgdWd3jukk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=dhunsyam-PC\dhunsyam" issuerKeyHash="d4b446a6fe68de51517121fb901f8f7592a6ee58" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Zf1XKsKKT7BBTvUnqQFPvOhrNLg=</DigestValue></Reference></SignedInfo><SignatureValue>0YYu0jQaR9Tj+/HW0cM6Sx5D9YjPOiZjmfcpfwCzKlfekSlkSfHvLWZ157E8CXVywB5Vq42Xt9v3rKyDHhDEM4k//HSR0RyiqyCj7xyEqZhqk/z38/V6JNXrIUiyWwxg6BNY+Y66aC97qjgtIq1agN7rjFbl8+p9pkfhj6R+SBY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1C5nGYHYebHQ0/55Nh+nGMbBpIBKgRQCrH6/QMZ/GnadaXBvbZJFSO5VVtYFqDEn5jc+yMMtWyhy+7Ji0+XEGBHCZAUURb/VbdJqIf/Kz0tI7qj7FiygcQItVYwiL/uUddYD/sd9KcnqS6lRW5vHG3XnXqVT7xxvfIcPWQPV2pk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b8346be8bc4f01a927f54e41b04f8ac22a57fd65" Description="" Url=""><as:assemblyIdentity name="lotto.exe" version="1.0.0.0" publicKeyToken="0f52382ad4f982b6" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=dhunsyam-PC\dhunsyam</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>sFaXyennVVHiuijJ/BwBtrwcl10=</DigestValue></Reference></SignedInfo><SignatureValue>gTPD6WZ/aEZSkjvVpOdwDyJsi1qZrlIOC27husO5RUN151AakQeO2VJeVdtPDNA82OPSQIzuXyA09KXB5ekSlES+IrqfmxSysiqqBk5PtWZ2xyNJjPYvkvLgxtiguFinc0mGYb+e7HXXBVqy0OAfNuohvHz0gOZ9P8JDc729ajc=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1C5nGYHYebHQ0/55Nh+nGMbBpIBKgRQCrH6/QMZ/GnadaXBvbZJFSO5VVtYFqDEn5jc+yMMtWyhy+7Ji0+XEGBHCZAUURb/VbdJqIf/Kz0tI7qj7FiygcQItVYwiL/uUddYD/sd9KcnqS6lRW5vHG3XnXqVT7xxvfIcPWQPV2pk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQGCBaMkyEJZZHqOmOOm3WqzANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigAZABoAHUAbgBzAHkAYQBtAC0AUABDAFwAZABoAHUAbgBzAHkAYQBtMB4XDTExMDExNzIwMTYwMloXDTEyMDExODAyMTYwMlowMzExMC8GA1UEAx4oAGQAaAB1AG4AcwB5AGEAbQAtAFAAQwBcAGQAaAB1AG4AcwB5AGEAbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1C5nGYHYebHQ0/55Nh+nGMbBpIBKgRQCrH6/QMZ/GnadaXBvbZJFSO5VVtYFqDEn5jc+yMMtWyhy+7Ji0+XEGBHCZAUURb/VbdJqIf/Kz0tI7qj7FiygcQItVYwiL/uUddYD/sd9KcnqS6lRW5vHG3XnXqVT7xxvfIcPWQPV2pkCAwEAATANBgkqhkiG9w0BAQUFAAOBgQC6fqE6i6Fs+fiblVanA+5IfzE/2sfRt8KsyWbmleH0hUUeOETFWq57YnJBSafOSwfMs5tnjyrtRbhw6VQMwqtDn9wRWtseEw9xTolUazEEZ05Hx6isoUozSVGkHHrrQXuZhfgYKAkVKqvWL7CqYRTOsz0I7g5cecNey51TegFoWA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

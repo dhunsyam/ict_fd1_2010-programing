@@ -1,0 +1,17 @@
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\Frmdatatypes.resx
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\Frmdatatypes.vb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\Frmdatatypes.Designer.vb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\frmDataTypes.exe.manifest
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\frmDataTypes.application
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\frmDataTypes.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\frmDataTypes.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\bin\Release\frmDataTypes.xml
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.Frmdatatypes.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.Resources.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.vbproj.GenerateResource.Cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.exe.manifest
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.application
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.xml
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Release\frmDataTypes.pdb

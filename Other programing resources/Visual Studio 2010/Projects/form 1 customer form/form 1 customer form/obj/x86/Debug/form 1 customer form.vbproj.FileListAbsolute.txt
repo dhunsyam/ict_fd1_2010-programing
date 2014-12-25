@@ -1,0 +1,14 @@
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\bin\Debug\form 1 customer form.exe
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\bin\Debug\form 1 customer form.pdb
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\bin\Debug\form 1 customer form.xml
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\form 1 customer form.exe
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\form 1 customer form.xml
+C:\Users\dhunsyam\Desktop\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\form 1 customer form.pdb
+N:\FD1\ict_fd1_2010 programing\Other programing resources\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\form 1 customer form.exe
+N:\FD1\ict_fd1_2010 programing\Other programing resources\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\form 1 customer form.xml
+N:\FD1\ict_fd1_2010 programing\Other programing resources\Visual Studio 2010\Projects\form 1 customer form\form 1 customer form\obj\x86\Debug\form 1 customer form.pdb

@@ -1,0 +1,4 @@
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_loops\Loops\Loops\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_loops\Loops\Loops\obj\Release\Loops.Frm_loops_lab.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_loops\Loops\Loops\obj\Release\Loops.Resources.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_loops\Loops\Loops\obj\Release\Loops.vbproj.GenerateResource.Cache

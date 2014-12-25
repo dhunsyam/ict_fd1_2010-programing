@@ -1,0 +1,211 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Database_application
+</name>
+</assembly>
+<members>
+<member name="T:Database_application.Course_assignmentsDataSet1.qryAllCoursesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1.qryStudentsOnAllCoursesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1.qryAllCoursesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1.qryStudentsOnAllCoursesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1.qryAllCoursesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1.qryStudentsOnAllCoursesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1TableAdapters.qryAllCoursesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1TableAdapters.qryStudentsOnAllCoursesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Database_application.Course_assignmentsDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Database_application.Course_assignmentsDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Database_application.Course_assignmentsDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager.UpdateAll(Database_application.Course_assignmentsDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblCourseDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblCourseModuleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblEnrolledStudentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblModuleAssignmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.qryAllCoursesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.qryStudentsOnAllCoursesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblCourseRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblCourseModuleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblEnrolledStudentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblModuleAssignmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.qryAllCoursesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.qryStudentsOnAllCoursesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblCourseRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblCourseModuleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblEnrolledStudentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.tblModuleAssignmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.qryAllCoursesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet.qryStudentsOnAllCoursesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.tblCourseTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.tblCourseModuleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.tblEnrolledStudentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.tblModuleAssignmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.qryAllCoursesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.qryStudentsOnAllCoursesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Database_application.Course_assignmentsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Database_application.Course_assignmentsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Database_application.Course_assignmentsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager.UpdateAll(Database_application.Course_assignmentsDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Database_application.Course_assignmentsDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,17 @@
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\bin\Debug\frmDataTypes.exe
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\bin\Debug\frmDataTypes.pdb
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\bin\Debug\frmDataTypes.xml
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.Frmdatatypes.resources
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.Resources.resources
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.vbproj.GenerateResource.Cache
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.exe
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.xml
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.pdb
+F:\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.exe
+F:\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.xml
+F:\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.xml
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Debug\frmDataTypes.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\frmDataTypes\obj\Debug\ResolveAssemblyReference.cache

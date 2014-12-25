@@ -1,0 +1,17 @@
+F:\ict_fd1_2010 programing\frmDataTypes\bin\Debug\frm_datatypes.exe
+F:\ict_fd1_2010 programing\frmDataTypes\bin\Debug\frm_datatypes.pdb
+F:\ict_fd1_2010 programing\frmDataTypes\obj\Debug\ResolveAssemblyReference.cache
+F:\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.exe
+F:\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.Frmdatatypes.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.Resources.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.vbproj.GenerateResource.Cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\bin\Debug\frm_datatypes.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frmDataTypes\bin\Debug\frm_datatypes.pdb
+E:\FD1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.exe
+E:\FD1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.pdb
+N:\FD1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.exe
+N:\FD1\ict_fd1_2010 programing\frmDataTypes\obj\Debug\frm_datatypes.pdb

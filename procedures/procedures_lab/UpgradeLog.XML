@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="procedures_lab">
+</Property><Property Name="Solution File" Value="E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\procedures_lab.sln">
+</Property><Property Name="User Options File" Value="E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\procedures_lab.suo">
+</Property><Property Name="Date" Value="13 February 2014">
+</Property><Property Name="Time" Value="09:45">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="procedures_lab.sln" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab.sln">
+</Event><Event ErrorLevel="0" Project="" Source="procedures_lab.suo" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab.suo">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\procedures_lab.vbproj" Description="Project file successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\procedures_lab.vbproj">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\frm_procedures.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\frm_procedures.vb">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\frm_procedures.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\frm_procedures.Designer.vb">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\My Project\Application.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\My Project\Application.myapp" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\My Project\Settings.settings" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\frm_procedures.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\frm_procedures.resx">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\My Project\Resources.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\procedures\procedures_lab\Backup\procedures_lab\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\procedures_lab.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="procedures_lab" Source="procedures_lab\procedures_lab.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="procedures_lab.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="procedures_lab.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="procedures_lab" Source="procedures_lab\procedures_lab.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

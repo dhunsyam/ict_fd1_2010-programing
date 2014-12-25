@@ -1,0 +1,16 @@
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\bin\Debug\timeapplication.exe
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\bin\Debug\timeapplication.pdb
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\bin\Debug\timeapplication.xml
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.timeapplication.resources
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.Resources.resources
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.vbproj.GenerateResource.Cache
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.exe
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.xml
+Z:\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.pdb
+E:\FD1\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.exe
+E:\FD1\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.xml
+E:\FD1\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.pdb
+N:\FD1\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.exe
+N:\FD1\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.xml
+N:\FD1\ict_fd1_2010 programing\time_application\timeapplication\timeapplication\obj\Debug\timeapplication.pdb

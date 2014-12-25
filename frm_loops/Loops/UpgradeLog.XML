@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Loops">
+</Property><Property Name="Solution File" Value="E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Loops.sln">
+</Property><Property Name="User Options File" Value="E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Loops.suo">
+</Property><Property Name="Date" Value="13 February 2014">
+</Property><Property Name="Time" Value="09:42">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Loops.sln" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Loops.suo" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops.suo">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\Loops.vbproj" Description="Project file successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\Loops.vbproj">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\Loops.vbproj.user" Description="Project user file successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\Loops.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\Frm_loops_lab.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\Frm_loops_lab.vb">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\Frm_loops_lab.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\Frm_loops_lab.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\My Project\Application.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\My Project\Application.myapp" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\My Project\Settings.settings" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\Frm_loops_lab.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\Frm_loops_lab.resx">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\My Project\Resources.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\frm_loops\Loops\Backup\Loops\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\Loops.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Loops" Source="Loops\Loops.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Loops.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Loops.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Loops" Source="Loops\Loops.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

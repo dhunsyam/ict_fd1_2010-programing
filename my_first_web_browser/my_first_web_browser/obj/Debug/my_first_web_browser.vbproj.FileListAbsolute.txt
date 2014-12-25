@@ -1,0 +1,69 @@
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.exe
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.pdb
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.xml
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\obj\Debug\ResolveAssemblyReference.cache
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Form1.resources
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Resources.resources
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.vbproj.GenerateResource.Cache
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+F:\ict_fd1_2010\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.exe
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.pdb
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.xml
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Resources.resources
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.vbproj.GenerateResource.Cache
+Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Frm1.resources
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.exe
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.pdb
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.xml
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\ResolveAssemblyReference.cache
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Frm1.resources
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Resources.resources
+E:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.vbproj.GenerateResource.Cache
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.exe
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.pdb
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.xml
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\ResolveAssemblyReference.cache
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Frm1.resources
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Resources.resources
+J:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.vbproj.GenerateResource.Cache
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.exe
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.pdb
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.xml
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\ResolveAssemblyReference.cache
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Frm1.resources
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Resources.resources
+F:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.vbproj.GenerateResource.Cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Frm1.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.Resources.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.vbproj.GenerateResource.Cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.xml
+I:\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+I:\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+I:\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+E:\FD1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+E:\FD1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+E:\FD1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb
+N:\FD1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.exe
+N:\FD1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.xml
+N:\FD1\ict_fd1_2010 programing\my_first_web_browser\my_first_web_browser\obj\Debug\my_first_web_browser.pdb

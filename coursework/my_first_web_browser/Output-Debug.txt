@@ -1,0 +1,24 @@
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\9.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Drawing\2.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\9.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\9.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.vshost.exe', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_32\System.Data\2.0.0.0__b77a5c561934e089\System.Data.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Deployment\2.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Core\3.5.0.0__b77a5c561934e089\System.Core.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Xml.Linq\3.5.0.0__b77a5c561934e089\System.Xml.Linq.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Data.DataSetExtensions\3.5.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualBasic\8.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualBasic.dll', Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+The thread 0x16c4 has exited with code 0 (0x0).
+The thread 0x16b0 has exited with code 0 (0x0).
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'Z:\ict_fd1_2010 web development\my_first_web_browser\my_first_web_browser\bin\Debug\my_first_web_browser.exe', Symbols loaded.
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\System.Runtime.Remoting\2.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll'
+'my_first_web_browser.vshost.exe' (Managed): Loaded 'C:\WINDOWS\assembly\GAC\Microsoft.mshtml\7.0.3300.0__b03f5f7f11d50a3a\Microsoft.mshtml.dll'
+A first chance exception of type 'System.OverflowException' occurred in my_first_web_browser.exe
+The thread 0xc8 has exited with code 0 (0x0).
+The thread 0x1228 has exited with code 0 (0x0).
+The program '[3524] my_first_web_browser.vshost.exe: Managed' has exited with code 0 (0x0).

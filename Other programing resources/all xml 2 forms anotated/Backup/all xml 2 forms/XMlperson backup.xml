@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<people>
+  <person>
+    <code>1</code>
+    <name>James</name>
+    <age>28</age>
+    <weight>165</weight>
+  </person>
+  <person>
+    <code>2</code>
+    <name>Jean</name>
+    <age>47</age>
+    <weight>200</weight>
+  </person>
+  <person>
+    <code>3</code>
+    <name>Jahangir</name>
+    <age>35</age>
+    <weight>175</weight>
+  </person>
+  <person>
+    <code>4</code>
+    <name>Jezebel</name>
+    <age>18</age>
+    <weight>115</weight>
+  </person>
+</people>

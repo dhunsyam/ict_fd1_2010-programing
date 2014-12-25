@@ -1,0 +1,10 @@
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\bin\Debug\lotto.exe
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\bin\Debug\lotto.pdb
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\bin\Debug\lotto.xml
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\obj\Debug\WindowsApplication1.lotto.resources
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\obj\Debug\lotto.vbproj.GenerateResource.Cache
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\obj\Debug\lotto.exe
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\obj\Debug\lotto.xml
+C:\Users\dhunsyam\Documents\home vb\lotto\lotto\lotto\obj\Debug\lotto.pdb

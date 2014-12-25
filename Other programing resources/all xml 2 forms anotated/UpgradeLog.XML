@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="all xml 2 forms">
+</Property><Property Name="Solution File" Value="E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\all xml 2 forms.sln">
+</Property><Property Name="User Options File" Value="E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\all xml 2 forms.suo">
+</Property><Property Name="Date" Value="06 May 2010">
+</Property><Property Name="Time" Value="16:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="all xml 2 forms.sln" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms.sln">
+</Event><Event ErrorLevel="0" Project="" Source="all xml 2 forms.suo" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms.suo">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\all xml 2 forms.vbproj" Description="Project file successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\all xml 2 forms.vbproj">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\all xml 2 forms.vbproj.user" Description="Project user file successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\all xml 2 forms.vbproj.user">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\loginform.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\loginform.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\loginform.Designer.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\loginform.Designer.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\ownerform.Designer.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\ownerform.Designer.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\ownerform.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\ownerform.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\customerform.Designer.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\customerform.Designer.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\customerform.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\customerform.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\My Project\Application.Designer.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\My Project\Application.myapp" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\My Project\Settings.settings" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\bin\Debug\XMLperson.xml" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\bin\Debug\XMLperson.xml">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\XMlperson backup.xml" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\XMlperson backup.xml">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\loginform.resx" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\loginform.resx">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\My Project\Resources.resx" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\customerform.resx" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\customerform.resx">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\ownerform.resx" Description="File successfully backed up as E:\ted mbc\foundation degree 0910\all xml 2 forms anotated\Backup\all xml 2 forms\ownerform.resx">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\all xml 2 forms.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="all xml 2 forms" Source="all xml 2 forms\all xml 2 forms.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="all xml 2 forms.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="all xml 2 forms.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="all xml 2 forms" Source="all xml 2 forms\all xml 2 forms.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

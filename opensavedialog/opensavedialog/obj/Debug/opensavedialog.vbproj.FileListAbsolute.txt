@@ -1,0 +1,21 @@
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\opensavedialog.Form1.resources
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\opensavedialog.Resources.resources
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\opensavedialog.vbproj.GenerateResource.Cache
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\opensavedialog.SplashScreen1.resources
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\opensavedialog.AboutBox1.resources
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\bin\Debug\Text Editor.exe
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\bin\Debug\Text Editor.pdb
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\bin\Debug\Text Editor.xml
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\Text Editor.exe
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\Text Editor.xml
+C:\Users\dhunsyam\Documents\home vb\opensavedialog\opensavedialog\obj\Debug\Text Editor.pdb
+F:\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.exe
+F:\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.xml
+F:\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.pdb
+E:\FD1\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.exe
+E:\FD1\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.xml
+E:\FD1\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.pdb
+N:\FD1\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.exe
+N:\FD1\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.xml
+N:\FD1\ict_fd1_2010 programing\opensavedialog\opensavedialog\obj\Debug\Text Editor.pdb

@@ -1,0 +1,25 @@
+F:\ict_fd1_2010\my_first_program\my_first_program\bin\Debug\my_first_program.exe
+F:\ict_fd1_2010\my_first_program\my_first_program\bin\Debug\my_first_program.pdb
+F:\ict_fd1_2010\my_first_program\my_first_program\bin\Debug\my_first_program.xml
+F:\ict_fd1_2010\my_first_program\my_first_program\obj\Debug\ResolveAssemblyReference.cache
+F:\ict_fd1_2010\my_first_program\my_first_program\obj\Debug\my_first_program.Resources.resources
+F:\ict_fd1_2010\my_first_program\my_first_program\obj\Debug\my_first_program.vbproj.GenerateResource.Cache
+F:\ict_fd1_2010\my_first_program\my_first_program\obj\Debug\my_first_program.exe
+F:\ict_fd1_2010\my_first_program\my_first_program\obj\Debug\my_first_program.xml
+F:\ict_fd1_2010\my_first_program\my_first_program\obj\Debug\my_first_program.pdb
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\obj\Debug\my_first_program.exe
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\obj\Debug\my_first_program.xml
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\obj\Debug\my_first_program.pdb
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\bin\Debug\my_first_program.exe
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\bin\Debug\my_first_program.pdb
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\bin\Debug\my_first_program.xml
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\obj\Debug\my_first_program.Form1.resources
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\obj\Debug\my_first_program.Resources.resources
+Z:\ict_fd1_2010 web development\my_first_program\my_first_program\obj\Debug\my_first_program.vbproj.GenerateResource.Cache
+E:\FD1\ict_fd1_2010 programing\my_first_program\my_first_program\obj\Debug\my_first_program.exe
+E:\FD1\ict_fd1_2010 programing\my_first_program\my_first_program\obj\Debug\my_first_program.xml
+E:\FD1\ict_fd1_2010 programing\my_first_program\my_first_program\obj\Debug\my_first_program.pdb
+N:\FD1\ict_fd1_2010 programing\my_first_program\my_first_program\obj\Debug\my_first_program.exe
+N:\FD1\ict_fd1_2010 programing\my_first_program\my_first_program\obj\Debug\my_first_program.xml
+N:\FD1\ict_fd1_2010 programing\my_first_program\my_first_program\obj\Debug\my_first_program.pdb

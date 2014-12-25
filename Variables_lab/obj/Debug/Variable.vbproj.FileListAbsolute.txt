@@ -1,0 +1,22 @@
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\bin\Debug\Variable.exe
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\bin\Debug\Variable.pdb
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\ResolveAssemblyReference.cache
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.Frmmain.resources
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.vbproj.GenerateResource.Cache
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.exe
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Variables_lab\bin\Debug\Variable.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Variables_lab\bin\Debug\Variable.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Variables_lab\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.Frmmain.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.vbproj.GenerateResource.Cache
+E:\FD1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.exe
+E:\FD1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.pdb
+E:\FD1\ict_fd1_2010 programing\Variables_lab\bin\Debug\Variable.exe
+E:\FD1\ict_fd1_2010 programing\Variables_lab\bin\Debug\Variable.pdb
+E:\FD1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.Frmmain.resources
+E:\FD1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.vbproj.GenerateResource.Cache
+N:\FD1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.exe
+N:\FD1\ict_fd1_2010 programing\Variables_lab\obj\Debug\Variable.pdb

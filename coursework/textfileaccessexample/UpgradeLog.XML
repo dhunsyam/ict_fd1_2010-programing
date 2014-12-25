@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="textfileaccessexample">
+</Property><Property Name="Solution File" Value="E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\textfileaccessexample.sln">
+</Property><Property Name="User Options File" Value="E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\textfileaccessexample.suo">
+</Property><Property Name="Date" Value="13 February 2014">
+</Property><Property Name="Time" Value="09:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="textfileaccessexample.sln" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample.sln">
+</Event><Event ErrorLevel="0" Project="" Source="textfileaccessexample.suo" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample.suo">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\textfileaccessexample.vbproj" Description="Project file successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\textfileaccessexample.vbproj">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\Frmtextaccess.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\Frmtextaccess.vb">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\Frmtextaccess.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\Frmtextaccess.Designer.vb">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\My Project\Application.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\My Project\Application.myapp" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\My Project\Settings.settings" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\Frmtextaccess.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\Frmtextaccess.resx">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\My Project\Resources.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\coursework\textfileaccessexample\Backup\textfileaccessexample\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\textfileaccessexample.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="textfileaccessexample" Source="textfileaccessexample\textfileaccessexample.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="textfileaccessexample.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="textfileaccessexample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="textfileaccessexample" Source="textfileaccessexample\textfileaccessexample.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

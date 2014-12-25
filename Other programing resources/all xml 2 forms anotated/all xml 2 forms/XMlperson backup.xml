@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<people>
+  <person>
+    <code>1</code>
+    <name>James</name>
+    <age>28</age>
+    <telephone>165</telephone>
+  </person>
+  <person>
+    <code>2</code>
+    <name>Jean</name>
+    <age>47</age>
+    <telephone>15425545</telephone>
+  </person>
+  <person>
+    <code>3</code>
+    <name>Jahangir</name>
+    <age>35</age>
+    <telephone>075000000544</telephone>
+  </person>
+  <person>
+    <code>4</code>
+    <name>Jezebel</name>
+    <age>19</age>
+    <telephone>01155665857</telephone>
+  </person>
+  <person>
+    <code>01</code>
+    <name>Sidhrah</name>
+    <age>21</age>
+    <telephone>07985463225</telephone>
+  </person>
+  <person>
+    <code>06</code>
+    <name>Mahira</name>
+    <age>25</age>
+    <telephone>07885455698</telephone>
+  </person>
+</people>
+
+
+
+
+
+  
+  

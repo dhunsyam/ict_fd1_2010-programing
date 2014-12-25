@@ -1,0 +1,13 @@
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\bin\Debug\Variables_lab.exe
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\bin\Debug\Variables_lab.pdb
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\bin\Debug\Variables_lab.xml
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\obj\Debug\Variables_lab.Frmmain.resources
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\obj\Debug\Variables_lab.Resources.resources
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\obj\Debug\Variables_lab.vbproj.GenerateResource.Cache
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\obj\Debug\Variables_lab.exe
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\obj\Debug\Variables_lab.xml
+C:\Documents and Settings\s10497623\My Documents\Visual Studio 2008\Projects\Variables_lab\Variables_lab\obj\Debug\Variables_lab.pdb
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variables_lab.exe
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variables_lab.xml
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variables_lab.pdb

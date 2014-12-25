@@ -1,0 +1,26 @@
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\bin\Debug\frm_test_values.exe
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\bin\Debug\frm_test_values.pdb
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\bin\Debug\frm_test_values.xml
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.Frm_test_values.resources
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.Resources.resources
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.vbproj.GenerateResource.Cache
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.exe
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.xml
+Z:\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.xml
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\bin\Debug\frm_test_values.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\bin\Debug\frm_test_values.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\bin\Debug\frm_test_values.xml
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.Frm_test_values.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.Resources.resources
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.vbproj.GenerateResource.Cache
+E:\FD1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.exe
+E:\FD1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.xml
+E:\FD1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.pdb
+N:\FD1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.exe
+N:\FD1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.xml
+N:\FD1\ict_fd1_2010 programing\frm_test_values\frm_test_values\obj\Debug\frm_test_values.pdb

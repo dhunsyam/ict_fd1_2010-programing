@@ -1,0 +1,4 @@
+Z:\ict_fd1_2010 programing\account\Account.vb\Account.vb\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 programing\account\Account.vb\Account.vb\obj\Debug\Account.vb.frmAccounts.resources
+Z:\ict_fd1_2010 programing\account\Account.vb\Account.vb\obj\Debug\Account.vb.Resources.resources
+Z:\ict_fd1_2010 programing\account\Account.vb\Account.vb\obj\Debug\Account.vb.vbproj.GenerateResource.Cache

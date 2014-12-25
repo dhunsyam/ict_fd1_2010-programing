@@ -1,0 +1,19 @@
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\bin\Debug\textfileaccessexample.exe
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\bin\Debug\textfileaccessexample.pdb
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\bin\Debug\textfileaccessexample.xml
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.Form1.resources
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.Resources.resources
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.vbproj.GenerateResource.Cache
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.exe
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.xml
+Z:\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.pdb
+C:\Users\dhunerz\Desktop\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.exe
+C:\Users\dhunerz\Desktop\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.xml
+C:\Users\dhunerz\Desktop\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.pdb
+E:\FD1\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.exe
+E:\FD1\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.xml
+E:\FD1\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.pdb
+N:\FD1\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.exe
+N:\FD1\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.xml
+N:\FD1\ict_fd1_2010 programing\textfileaccessexample\textfileaccessexample\obj\Debug\textfileaccessexample.pdb

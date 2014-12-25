@@ -1,0 +1,4 @@
+Writing Effective Use Cases, Cockburn.A, 2001, Addison-Wesley
+Large-Scale Software Architecture, Garland.J and Anthony.R, 2003, Wiley
+Absolute Beginners Guide to iPod and iTunes, Miser.B, 2005, Que Publication
+UML Distilled - 3rd Edition, Fowler.M, 2004, Addison-Wesley: Object Series

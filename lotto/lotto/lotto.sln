@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lotto", "lotto\lotto.vbproj", "{94B7CFE6-C67E-4596-82C6-4795A2D5495D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B7CFE6-C67E-4596-82C6-4795A2D5495D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B7CFE6-C67E-4596-82C6-4795A2D5495D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B7CFE6-C67E-4596-82C6-4795A2D5495D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B7CFE6-C67E-4596-82C6-4795A2D5495D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

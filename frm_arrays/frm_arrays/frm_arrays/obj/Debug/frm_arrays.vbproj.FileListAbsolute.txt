@@ -1,0 +1,16 @@
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.Form1.resources
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.Resources.resources
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.vbproj.GenerateResource.Cache
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\bin\Debug\frm_arrays.exe
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\bin\Debug\frm_arrays.pdb
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\bin\Debug\frm_arrays.xml
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.exe
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.xml
+Z:\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.pdb
+E:\FD1\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.exe
+E:\FD1\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.xml
+E:\FD1\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.pdb
+N:\FD1\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.exe
+N:\FD1\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.xml
+N:\FD1\ict_fd1_2010 programing\frm_arrays\frm_arrays\frm_arrays\obj\Debug\frm_arrays.pdb

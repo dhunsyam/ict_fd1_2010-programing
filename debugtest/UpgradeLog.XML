@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="debugtest">
+</Property><Property Name="Solution File" Value="E:\FD1\ict_fd1_2010 programing\debugtest\debugtest.sln">
+</Property><Property Name="User Options File" Value="E:\FD1\ict_fd1_2010 programing\debugtest\debugtest.suo">
+</Property><Property Name="Date" Value="13 February 2014">
+</Property><Property Name="Time" Value="09:48">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="debugtest.sln" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest.sln">
+</Event><Event ErrorLevel="0" Project="" Source="debugtest.suo" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest.suo">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\debugtest.vbproj" Description="Project file successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\debugtest.vbproj">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\Frmdebugtest.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\Frmdebugtest.vb">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\Frmdebugtest.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\Frmdebugtest.Designer.vb">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\My Project\AssemblyInfo.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\My Project\Application.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\My Project\Resources.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\My Project\Settings.Designer.vb" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\My Project\Application.myapp" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\My Project\Settings.settings" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\Frmdebugtest.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\Frmdebugtest.resx">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\My Project\Resources.resx" Description="File successfully backed up as E:\FD1\ict_fd1_2010 programing\debugtest\Backup\debugtest\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\debugtest.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="debugtest" Source="debugtest\debugtest.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="debugtest.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="debugtest.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="debugtest" Source="debugtest\debugtest.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

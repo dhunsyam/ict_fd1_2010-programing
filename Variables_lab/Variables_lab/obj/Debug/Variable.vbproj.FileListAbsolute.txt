@@ -1,0 +1,9 @@
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\bin\Debug\Variable.exe
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\bin\Debug\Variable.pdb
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\ResolveAssemblyReference.cache
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.Frmmain.resources
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.vbproj.GenerateResource.Cache
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.exe
+J:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.pdb
+F:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.exe
+F:\ict_fd1_2010 programing\Variables_lab\Variables_lab\obj\Debug\Variable.pdb

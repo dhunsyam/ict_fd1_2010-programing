@@ -1,0 +1,16 @@
+D:\Conditional_lab\Conditional_lab\bin\Release\Conditional_lab.exe
+D:\Conditional_lab\Conditional_lab\bin\Release\Conditional_lab.pdb
+D:\Conditional_lab\Conditional_lab\bin\Release\Conditional_lab.xml
+D:\Conditional_lab\Conditional_lab\obj\Release\ResolveAssemblyReference.cache
+D:\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.FrmConditions_lab.resources
+D:\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.Resources.resources
+D:\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.vbproj.GenerateResource.Cache
+D:\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.exe
+D:\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.xml
+D:\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.pdb
+F:\ict_fd1_2010 programing\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.exe
+F:\ict_fd1_2010 programing\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.xml
+F:\ict_fd1_2010 programing\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.pdb
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.exe
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.xml
+C:\Users\dhunsyam\Documents\my uni ict unit 1\ict_fd1_2010 programing\Conditional_lab\Conditional_lab\obj\Release\Conditional_lab.pdb

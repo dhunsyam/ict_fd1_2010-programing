@@ -1,0 +1,16 @@
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\ResolveAssemblyReference.cache
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.Frmdbtest.resources
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.Resources.resources
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.vbproj.GenerateResource.Cache
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\bin\Debug\DBCDSACCESS.exe
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\bin\Debug\DBCDSACCESS.pdb
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\bin\Debug\DBCDSACCESS.xml
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.exe
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.xml
+Z:\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.pdb
+E:\FD1\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.exe
+E:\FD1\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.xml
+E:\FD1\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.pdb
+N:\FD1\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.exe
+N:\FD1\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.xml
+N:\FD1\ict_fd1_2010 programing\DBCDSACCESS\DBCDSACCESS\obj\Debug\DBCDSACCESS.pdb
